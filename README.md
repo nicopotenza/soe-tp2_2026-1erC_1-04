@@ -4,4 +4,4 @@
 ### Responsable de la entrega:
 | Padrón | Apellidos, Nombres | Fecha | Deadline |
 | :----- | :--------------------- | :------: | :-------: |
-| 97024 | Potenza, Nicolás Alejandro | 01/04/2026 | Semana 04 |
+| 97024 | Potenza, Nicolás Alejandro | 13/05/2026 | Semana 09 |
